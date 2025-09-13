@@ -1,0 +1,6 @@
+- [x] Remove Firebase from package.json
+- [x] Update or delete src/assets/firebase/firebase.jsx
+- [x] Update AuthContext.jsx to use localStorage for auth and user profiles
+- [x] Update SkillsContext.jsx to use localStorage for skills data
+- [x] Check and update any other files importing Firebase
+- [x] Test the changes
